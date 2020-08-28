@@ -15,7 +15,7 @@
  */
 metadata {
 	definition (name: "FortrezZ MIMO2+", namespace: "fortrezz", author: "FortrezZ, LLC") {
-		capability "Alarm"
+/**		capability "Alarm" */
 		capability "Contact Sensor"
 		capability "Switch"
 		capability "Voltage Measurement"
